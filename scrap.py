@@ -1,5 +1,5 @@
 import requests
-import os
+
 
 def scrap():
     for i in range(500):
